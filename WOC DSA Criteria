@@ -1,16 +1,19 @@
 # WOC-DSA
 Problem Statements:
-1. Kriti is a food lover and blogger. She loves to visit new food centers and blog about her experiences. She is also famous for her blogging in the city of Jamshedpur.
-One day she decided to visit all the cafeterias of the city and quote her experiences in the newspaper “Hindustan Times”. You are her guide for this journey. In order to
-visit all the cafeterias, you want to know the shortest distance of all from your home. Also to save time for your guest you want to visit the cafeteria closet from your
-home at first and then plan for the next.
-
-Description :
-Consider your home as the starting point of your journey with Kriti. Now plan to visit the cafeterias according to the shortest distance of the remaining cafeterias from 
-your current location. 
-
-Input : 
-You are given the total number of cafeterias including your home and the 
-
+1. 
 2.
 3.
+4.
+5.
+
+Points to be noted while making a Proposal.
+1. The intution of the code which you are going to implement. If you feel there is a use of any specific Data structure and Algorithm or both do mention them 
+   so as to have a positive impact over other's proposal.
+2. Clearly mention the time complexity and space complexity of the code which you are going to implement.
+3. You have to write proposals including all problems.
+
+Procedure after the proposals are selected.
+Once your proposal will be selected you will be assigned to a group(Group number will be disclosed after the all the proposals are selected), where all the members 
+have to collectively work on all the problem statement.
+You will be given 1 test case for each problem and other testcases will be hidden.You will be awarded points on the number of hidden testcases your code passes.
+If two teams score collide the team who submitted all the problems in least time will be ranked less than the other team.
